@@ -96,7 +96,7 @@ const config: Config = {
             },
             {
               label: 'Source code of this website',
-              href: 'https://github.com/arokago/hms-frontend',
+              href: 'https://github.com/Ranviee0/christian-website',
             },
           ],
         },
